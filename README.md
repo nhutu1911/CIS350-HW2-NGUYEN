@@ -9,4 +9,5 @@ Have experience in 💻
 - Swift
 - mySQL
 #### And my favorite meme 🥵 👇🏼
+![alt text](https://imgix.ranker.com/user_node_img/50106/1002119104/original/1002119104-photo-u1)
 
