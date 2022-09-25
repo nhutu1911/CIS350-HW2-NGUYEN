@@ -1,7 +1,7 @@
 # TU NGUYEN 
 ### I am interested in...
 - Financial management software 💸 
- -> Software which can help people keep track on their spending in the simplest way and give them better finalcial plans.
+Software which can help people keep track on their spending in the simplest way and give them better finalcial plans.
 - Ice-skating ⛸ at Rosa Park ❄️  
  -> This is one of my most exciting outdoor activity in the winter.  
 - Decluttering 🏡 
